@@ -1,0 +1,8 @@
+@import './base.css';
+
+#app {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
